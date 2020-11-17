@@ -8,7 +8,7 @@
         "laravel-comments"
     ],
     "homepage": "https://github.com/beyondcode/laravel-comments",
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "Marcel Pociot",
