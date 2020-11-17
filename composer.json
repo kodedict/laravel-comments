@@ -1,0 +1,7 @@
+{
+    "name": "beyondcode/laravel-comments",
+    "description": "Add comments to your Laravel application",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {}
+}
